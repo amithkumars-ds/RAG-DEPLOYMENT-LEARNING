@@ -1,0 +1,10 @@
+# local
+data/
+models/
+vector_store/*
+.DS_Store
+
+# cache
+__pycache__/
+*.py[cod]
+*$py.class
